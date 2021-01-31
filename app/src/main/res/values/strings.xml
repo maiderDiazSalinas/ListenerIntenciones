@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListenerIntenciones</string>
+    <string name="vibrate_off">Off</string>
+    <string name="vibrate_on">On</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="check_it_out">Check it out </string>
+    <string name="numTel">número de teléfono</string>
+    <string name="nombreApellidos">Nombre y Apellidos</string>
+    <string name="salvar">Salvar</string>
+    <string name="titulo">titulo</string>
+    <string name="volver">Volver</string>
+    <string name="abrir">Abrir</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="nombre">Nombre</string>
+    <string name="devolver">Devolver</string>
+</resources>
